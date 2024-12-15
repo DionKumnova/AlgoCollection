@@ -1,4 +1,4 @@
-# Mandatory Assignment 2, IN3130
+# Mandatory Assignment
 
 ## Student Name: Dion Kumnova
 
