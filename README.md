@@ -1,2 +1,2 @@
 # AlgoCollection
-Collection of various algorthims
+Collection of various algorithms.
